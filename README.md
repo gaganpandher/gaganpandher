@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Gagandeep 👋<br><br>I build backend systems and AI applications using Python. My projects focus on real-world engineering — scalable APIs, event-driven systems, and LLM-powered applications.<br><br>Currently working on:<br><br>-Production-ready Python backend projects<br>-AI systems using RAG pipelines<br>-Cloud deployment using AWS and Docker
+Hi, I'm Gagandeep 👋<br><br>I build backend systems and AI applications using Python. My projects focus on real-world engineering — scalable APIs, event-driven systems, and LLM-powered applications.<br><br>Currently working on:<br><br>- Python backend projects<br>-AI systems using RAG pipelines<br>-Cloud deployment using AWS and Docker
 
 
 ## 🌐 Socials:
